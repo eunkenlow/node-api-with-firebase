@@ -1,0 +1,7 @@
+# Dependency directory
+node_modules
+
+# project specific ignores
+.env
+firebase.json
+docs/views
